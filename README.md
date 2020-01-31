@@ -1244,6 +1244,7 @@ See also [Are we game yet?](https://arewegameyet.com)
   * [Thrussh](https://github.com/pijul-scm/thrussh/) — an SSH library written from scratch in Rust, backed by [libsodium](https://download.libsodium.org/doc/)
 * Stomp
   * [zslayton/stomp-rs](https://github.com/zslayton/stomp-rs) — A [STOMP 1.2](http://stomp.github.io/stomp-specification-1.2.html) client implementation in Rust [<img src="https://api.travis-ci.org/zslayton/stomp-rs.svg?branch=master">](https://travis-ci.org/zslayton/stomp-rs)
+  * [teknopaul/romp](https://gitlab.com/teknopaul/romp) - A [STOMP 1.2](http://stomp.github.io/stomp-specification-1.2.html) and STOMP/WebSockets server implementation in Rust.
 * uTP
   * [meqif/rust-utp](https://github.com/meqif/rust-utp) — A [uTP](http://www.bittorrent.org/beps/bep_0029.html) (Micro Transport Protocol) library for Rust. [<img src="https://api.travis-ci.org/meqif/rust-utp.svg?branch=master">](https://travis-ci.org/meqif/rust-utp)
 * ZeroMQ
